@@ -1,2 +1,2 @@
 # Best11-Cricket
-https://github.com/dhanushkapg/ATLIQ-Sales-360
+Best 11 Cricket Team Selection – End to End Project, Data Scrap from ESPN Cric Info.  | Power BI | Data Modeling
